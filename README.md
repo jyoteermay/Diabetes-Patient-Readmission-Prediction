@@ -79,9 +79,9 @@ Two thresholds are tuned on the validation set:
 | Best Model | XGBoost |
 | ROC AUC | ~0.67 |
 | PR AUC | ~0.22 |
-| Recall | ~0.46 |
+| Recall | ~0.44 |
 | Precision | ~0.20 |
-| F1-score | ~0.28 |
+| F1-score | ~0.27 |
 
 ROC AUC of 0.67 is above the logistic regression baseline (~0.62–0.65) and reflects the genuine difficulty of this task — the signal-to-noise ratio is low and class imbalance is severe.
 
